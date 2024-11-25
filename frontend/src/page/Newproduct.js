@@ -91,6 +91,7 @@ const Newproduct = () => {
           <option value={"burger"}>Burger</option>
           <option value={"panner"}>Panner</option>
           <option value={"sandwich"}>Sandwich</option>
+          <option value={"Chicken"}>Chicken</option>
         </select>
 
         <label htmlFor='image'>Image
